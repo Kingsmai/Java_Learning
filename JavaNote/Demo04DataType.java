@@ -13,6 +13,10 @@
  * 1. byte、short、char这三种类型都可以发生数学运算
  * 2. byte、short、char这三种类型在运算的时候，会提升为int，再进行计算
  * 3. 布尔类型不能发生任何类型转换
+ * 
+ * 字符型数据编码：
+ * ASCII：美国信息交换标准代码
+ * Unicode：万国码
  */
 public class Demo04DataType {
     public static void main(String[] args) {
@@ -62,5 +66,18 @@ public class Demo04DataType {
         short num10 = 60;
         short result3 = (short) (num8 + num10); //先提升为int，运算之后，再强制转换为short
         System.out.println(result3); // 得确保逻辑上的真实大小不超过short，否则也会数据溢出
+
+        /**
+         * 字符型数据
+         */
+        char ch2 = '1';
+        System.out.println(ch2 + 0); // 1翻译为ASCII码 => 49
+
+        char ch3 = 'a';
+        int num = ch3; // char -> int，从小到大，自动类型转换
+        System.out.println(num); // a翻译为ASCII码 => 97
+
+        int ch4 = '字';
+        System.out.println(ch4); // 23383
     }
 }
