@@ -23,6 +23,9 @@
 + Demo05Operator - Java运算符（四则运算，取模，自增自减）
 + Demo06Operator - Java运算符（赋值运算符）
 + Demo07Operator - Java运算符（比较运算符）
-+ Demo08Operator - Java逻辑运算符
++ Demo08Logic - Java逻辑运算符
 + Demo09Operator - Java三目运算符
+2020/08/17 commit-1
++ Demo10Method - Java方法（函数）
++ Demo11Notice - 注意事项
 ```
