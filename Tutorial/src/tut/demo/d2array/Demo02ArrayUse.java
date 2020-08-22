@@ -7,7 +7,7 @@ package tut.demo.d2array;
  * 
  * 使用动态初始化数组的时候，其中元素将自动拥有一个默认值，
  * 默认值规则如下：
- * byte short int char: 0;
+ * byte short int long: 0;
  * double float: 0.0;
  * char: '\u0000'; // Unicode
  * boolean: false;
