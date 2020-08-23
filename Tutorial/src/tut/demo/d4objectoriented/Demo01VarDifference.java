@@ -1,4 +1,4 @@
-package tut.demo.d3objectoriented;
+package tut.demo.d4objectoriented;
 /*
  * 局部变量和成员变量：
  * 
@@ -22,7 +22,7 @@ package tut.demo.d3objectoriented;
  * 局部变量：随着方法诞生而诞生，随着方法出栈而消失
  * 成员变量：随着对象创建而诞生，随着对象被垃圾回收而消失
  */
-public class Demo08VarDifference {
+public class Demo01VarDifference {
 	String name; // 成员变量
 	
 	private void methodA() {
