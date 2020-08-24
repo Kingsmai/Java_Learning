@@ -29,6 +29,13 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 + Tutorial/procgenmap 随机地图生成的小项目（做成一个包了）
 - 删除了 Tutorial 项目下的 bin 二进制文件
 + Java 面向对象编程
+2020/08/24
+! 修改包名格式：原先的tut.demo.xxx改为tut.demo01.xxx，一个系列（内定）一个序号
+! tut.demo01是基础
++ tut.demo02 Java的API
++ Java Scanner 键盘输入
++ Java 匿名对象
++ Java Random 随机值
 ```
 
 ## Eclipse 笔记：
