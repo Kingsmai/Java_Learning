@@ -33,9 +33,15 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 ! 修改包名格式：原先的tut.demo.xxx改为tut.demo01.xxx，一个系列（内定）一个序号
 ! tut.demo01 Java基础
 + tut.demo02 Java的API
-+ Java Scanner 键盘输入
++ Java Scanner类 键盘输入
 + Java 匿名对象
-+ Java Random 随机值
++ Java Random类 随机值
+2020/08/25
++ Java ArrayList类 集合
+
++ Java String类 字符串
++ Useful Material 存放实用文件
+! 修改了Java笔记子文件布局
 ```
 
 ## Eclipse 笔记：
