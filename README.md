@@ -14,7 +14,7 @@
 
 Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就行~
 
-## 更新日志
+## 学习成长日志
 
 ```diff
 2020/08/15
@@ -33,17 +33,19 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 ! 修改包名格式：原先的tut.demo.xxx改为tut.demo01.xxx，一个系列（内定）一个序号
 ! tut.demo01 Java基础
 + tut.demo02 Java的API
-+ Java Scanner类 键盘输入
++ Java java.util.Scanner类 键盘输入
 + Java 匿名对象
-+ Java Random类 随机值
++ Java java.util.Random类 随机值
 2020/08/25
-+ Java ArrayList类 集合
++ Java java.util.ArrayList类 集合
 2020/08/27
-+ Java String类 字符串
++ Java java.lang.String类 字符串
 + Useful Material 存放实用文件
 ! 修改了Java笔记子文件布局
 2020/08/28
 + static 关键词的应用
++ Java java.util.Arrays 类
++ Java java.lang.Math 类
 ```
 
 ## Eclipse 笔记：
