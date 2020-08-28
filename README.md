@@ -46,6 +46,8 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 + static 关键词的应用
 + Java java.util.Arrays 类
 + Java java.lang.Math 类
+2020/08/29
++ Java 继承
 ```
 
 ## Eclipse 笔记：
