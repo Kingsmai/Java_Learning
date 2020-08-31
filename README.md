@@ -50,6 +50,13 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 + Java 继承
 + Java 抽象
 + Java 发红包实列
+2020/08/30
+! 创建了新的Java项目，命名Tutorial2，从接口Interface开始往这边放代码（包命名有区别）
++ Java Interface 接口
+2020/08/31
++ Java Polymorphism 对象的多态性
++ 接口的上下转型
++ 笔记本接口实现案列
 ```
 
 ## Eclipse 笔记：
