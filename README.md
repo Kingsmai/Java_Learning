@@ -57,6 +57,10 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 + Java Polymorphism 对象的多态性
 + 接口的上下转型
 + 笔记本接口实现案列
+2020/09/01
++ 内部类
++ 类或接口作为成员变量类型
++ 接口作为方法的参数和返回值
 ```
 
 ## Eclipse 笔记：
