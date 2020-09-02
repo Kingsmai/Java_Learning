@@ -1,0 +1,12 @@
+	Demo01Final
+1. 用来修饰一个类
+	MyClass
+	MySubClass
+2. 用来修饰一个方法
+	Father
+	Son
+3. 用来修饰一个局部变量
+	Demo01Final
+	Student
+4. 用来修饰一个成员变量
+	Person
