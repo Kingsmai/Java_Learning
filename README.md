@@ -71,6 +71,7 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 + Java java.util.Calendar 抽象类 日历
 2020/09/04
 + Java java.util.System 类
+! 重新归类tutorial3项目中，常用API用法的包和类（现在将它们全部集中于tut.d1api.frequent包下）
 ```
 
 ## Eclipse 笔记：
