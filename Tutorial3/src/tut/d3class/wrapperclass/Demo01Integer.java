@@ -16,6 +16,7 @@ package tut.d3class.wrapperclass;
  */
 public class Demo01Integer {
 
+	@SuppressWarnings("deprecation") // 无视“已淘汰”警告
 	public static void main(String[] args) {
 		// 装箱
 		// 构造方法

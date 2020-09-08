@@ -31,5 +31,6 @@ public class Demo01Scanner {
 		 
 		 System.out.println("输入的int数字是：" + num);
 		 System.out.println("输入的字符串是：" + str);
+		 sc.close(); // 关闭Scanner资源
 	}
 }

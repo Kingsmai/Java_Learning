@@ -4,6 +4,7 @@ package tut.demo03.d1static;
  * 如果一个成员变脸使用了static关键字，那么这个变量不再属于对象自己，而是属于所在的类，多个对象共享同一份数据
  */
 public class Demo01StaticField {
+	@SuppressWarnings("static-access") // 无视“访问静态”的警告
 	public static void main(String[] args) {
 		Student one = new Student("郭靖", 19);
 		one.classroom = "101教室";

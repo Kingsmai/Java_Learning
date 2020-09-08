@@ -3,6 +3,7 @@ package tut.demo02.d2anonymous;
 import java.util.Scanner;
 
 public class Demo02AnonymousMethod {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		// 普通使用方式
 		System.out.println("请输入一个数字");

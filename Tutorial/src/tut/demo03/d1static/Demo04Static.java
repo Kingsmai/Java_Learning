@@ -16,6 +16,7 @@ package tut.demo03.d1static;
  * 用来一次性的对静态成员变量进行赋值
  */
 public class Demo04Static {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		Person one = new Person();
 		Person two = new Person();

@@ -12,6 +12,7 @@ package tut.demo04.d1extends;
  * 2. super只能有一个，还必须是第一个语句位置
  */
 public class Demo05Constructor {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		Son son = new Son();
 		// 先打印父类构造方法，然后再打印子类构造方法

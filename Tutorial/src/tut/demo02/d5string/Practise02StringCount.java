@@ -37,10 +37,10 @@ public class Practise02StringCount {
 				countOther++;
 			}
 		}
-		
 		System.out.println("大写字母有：" + countUpper);
 		System.out.println("小写字母有：" + countLower);
 		System.out.println("数字有：" + countNumber);
 		System.out.println("其他符号有：" + countOther);
+		sc.close();
 	}
 }

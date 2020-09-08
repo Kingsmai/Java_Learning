@@ -29,6 +29,7 @@ package tut.demo01.d2array;
  * 数组类型[] 数组名称 = {元素1, 元素2, ...};
  */
 public class Demo01Array {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		// 没有数组的情况下（存储多个数据很麻烦）：
 		int score1 = 100;

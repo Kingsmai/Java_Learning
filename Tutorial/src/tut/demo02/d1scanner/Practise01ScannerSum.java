@@ -21,5 +21,6 @@ public class Practise01ScannerSum {
 		int b = sc.nextInt();
 		int result = a + b;
 		System.out.println("½á¹ûÊÇ£º" + result);
+		sc.close();
 	}
 }

@@ -19,6 +19,7 @@ package tut.demo03.d1static;
  * 2.1. this代表当前对象，通过谁调用方法，谁就是当前对象
  */
 public class Demo02StaticMethod {
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
 		MyClass obj = new MyClass(); // 首先创建对象
 		// 然后才能使用没有static关键字的内容

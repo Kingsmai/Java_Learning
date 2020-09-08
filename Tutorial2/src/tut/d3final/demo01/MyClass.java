@@ -11,6 +11,7 @@ package tut.d3final.demo01;
  */
 public final class MyClass /*extends Object*/ {
 
+	@SuppressWarnings("unused")
 	private void method() {
 		// TODO Auto-generated method stub
 		System.out.println("·½·¨Ö´ÐÐ£¡");

@@ -20,6 +20,7 @@ import java.util.ArrayList;
  * 自动拆箱：包装类型 -> 基本类型
  */
 public class Demo04ArrayListBasic {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		ArrayList<String> listA = new ArrayList<>();
 //		ArrayList<int> listB = new ArrayList<>(); // 错误写法，泛型只能是引用类型，不能是基本类型

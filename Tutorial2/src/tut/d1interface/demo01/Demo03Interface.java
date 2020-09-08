@@ -8,6 +8,7 @@ package tut.d1interface.demo01;
  */
 public class Demo03Interface {
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		// 创建了实现类对象
 		MyInterfaceStaticImpl impl = new MyInterfaceStaticImpl();

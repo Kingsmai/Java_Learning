@@ -1,6 +1,7 @@
 package tut.demo01.d5classes;
 
 public class Demo02Student {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		Student stu1 = new Student(); // 其实就是调用Student的构造函数
 		System.out.println("=============");

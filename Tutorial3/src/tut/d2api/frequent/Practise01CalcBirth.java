@@ -38,12 +38,14 @@ public class Practise01CalcBirth {
 		
 		// 优化！！
 		System.out.println("请输入您的出生日期，格式为：yyyy-mm-dd");
-		String birthString = new Scanner(System.in).next();
+		Scanner sc = new Scanner(System.in);
+		String birthString = sc.next();
 		Date birthDate = new SimpleDateFormat("yyyy-mm-dd").parse(birthString);
 		long birthTime = birthDate.getTime();
 		long todayTime = new Date().getTime();
 		long time = todayTime - birthTime;
 		int day = (int) (time / 100 / 60 / 60 / 24);
 		System.out.println(day);
+		sc.close();
 	}
 }

@@ -17,6 +17,7 @@ public class MyOuter {
 		int num = 10; // 所在方法的局部变量
 //		num = 20; // 错误写法，不能变
 		
+		@SuppressWarnings("unused")
 		class myInner {
 			public void methodInner() {
 				System.out.println(num);

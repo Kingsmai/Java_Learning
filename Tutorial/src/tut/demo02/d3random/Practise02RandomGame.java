@@ -33,5 +33,6 @@ public class Practise02RandomGame {
 				break;
 			}
 		}
+		sc.close();
 	}
 }

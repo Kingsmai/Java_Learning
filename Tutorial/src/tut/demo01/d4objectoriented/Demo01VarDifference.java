@@ -22,6 +22,7 @@ package tut.demo01.d4objectoriented;
  * 局部变量：随着方法诞生而诞生，随着方法出栈而消失
  * 成员变量：随着对象创建而诞生，随着对象被垃圾回收而消失
  */
+@SuppressWarnings("unused")
 public class Demo01VarDifference {
 	String name; // 成员变量
 	

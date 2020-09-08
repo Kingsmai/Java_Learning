@@ -15,6 +15,7 @@ package tut.d3final.demo01;
  */
 public class Demo01Final {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		int num1 = 30;
 		System.out.println(num1); // 30

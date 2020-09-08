@@ -26,5 +26,6 @@ public class Practise02ScannerMax {
 		int temp = a > b ? a : b;
 		int max = temp > c ? temp : c;
 		System.out.println("最大值是：" + max);
+		sc.close();
 	}
 }
