@@ -76,7 +76,7 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 + Java java.lang.StringBuilder 类
 + Java 包装类
 2020/09/08
-+ 调整了几个Java编译器报的警告，使用@SuppressWarning()
+! 调整了几个Java编译器报的警告，使用@SuppressWarning()
 ```
 
 ## Eclipse 笔记：
