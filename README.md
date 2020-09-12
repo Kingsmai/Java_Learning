@@ -81,6 +81,10 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 + Java java.util.Collection 类 集合
 + Java java.util.Iterator 类 迭代器
 + Java foreach 增强for循环
+2020/09/12
+! 修改Tutorial3项目的包名
++ Java Generic 泛型
++ Java 斗地主案列
 ```
 
 ## Eclipse 笔记：
