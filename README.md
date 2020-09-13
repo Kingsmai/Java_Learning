@@ -14,6 +14,21 @@
 
 Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就行~
 
+## How To Use (Eclipse 2020.6)
+
+> `Tutorial, Tutorial2, Tutorial3` 是使用Eclipse编程的，所以用Eclipse打开能保持无冲突（Idea暂时还未尝试）
+
+1. Eclipse 的 Workspace 定位到本项目的根目录下 `Java_Learning\`。打开Eclipse之后，选择`Import Projects`
+2. 弹出的框选择：`General > Projects from Folder or Archive`
+3. Import source找到路径：\Java_Learning\Tutorialx x是每个不同的Tutorial项目（由入门到高级），一个一个import就行。
+4. 本项目是基于JDK11的，所以先[安装JDK11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)，配置好环境变量后，回到Eclipse
+5. `Windows > Preferences`打开设置（译：首选项）
+6. 接着找到`Java > Installed JREs`，列表右侧点击Add，选择Standard VM，Next
+7. JRE Home的路径定位到刚刚JDK11安装的路径，如：C:\Program Files\Java\jdk-11.0.8，然后点击OK就行
+8. 回到列表，你可以选择打勾JDK11，这意味着你在这个workspace里的项目将会默认基于JDK11开发。
+9. 点击Apply，到这里基本上就完成了。
+10. 可以试试随便找到一个有主函数的类，运行该类看看会不会正确输出。
+
 ## 学习成长日志
 
 ```diff
@@ -85,6 +100,8 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 ! 修改Tutorial3项目的包名
 + Java Generic 泛型
 + Java 斗地主案列
+2020/09/13
+数据结构（有歧义）不完整
 ```
 
 ## Eclipse 笔记：
