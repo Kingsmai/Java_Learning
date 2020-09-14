@@ -102,9 +102,19 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 + Java 斗地主案列
 2020/09/13
 + 数据结构（有歧义）不完整
-+ Java List接口
-+ Java Set接口
++ Java java.util.List接口
++ Java java.util.LinkedList接口
++ Java java.util.Vector集合 （已过时）
++ Java java.util.Set接口
++ Java java.util.HashSet集合
 + Java 哈希值
+2020/09/14
++ Java 哈希表
++ Java Set集合存储元素不重复的原理
++ Java java.util.HashSet存储自定义元素
++ Java java.util.LinkedHashSet集合（有序集合）
++ Java Var Args可变参数
++ Java java.util.Collections集合工具类
 ```
 
 ## Eclipse 笔记：
@@ -128,13 +138,19 @@ System.out.println();
 快速创建类：
 
 1. 创建Getter / Setter
-   1. 上方Source菜单，找到Generate Getter / Setter
+   1. 上方Source菜单，找到`Generate Getter / Setter...`
    2. 选择所有成员变量，然后OK
 2. 创建无参构造方法
-   1. 上方Source菜单，找到Generate Constructor Using Field
+   1. 上方Source菜单，找到`Generate Constructor Using Field...`
    2. 取消勾选所有的成员变量，然后OK
 3. 创建有参构造方法
-   1. 上方Source菜单，找到Generate Constructor Using Field
+   1. 上方Source菜单，找到`Generate Constructor Using Field...`
    2. 选择所有成员变量，然后OK
+4. 重写toString方法
+   1. 上方Source菜单，找到`Generate toString()...`
+   2. 打勾Fields，然后Generate
+5. 重写hashCode方法和equals方法
+   1. 上方Soutce菜单，找到`Generate hashCode() and equals()...`
+   2. 全选成员变量，打勾`Use Objects.hash and Objects.equals methods (1.7 or higher)`
 
 `SHIFT + ALT + A` 光标会变成＋，这时候就可以通过鼠标拖拽进行块状编辑(Block Selection)
