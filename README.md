@@ -155,3 +155,5 @@ System.out.println();
    2. 全选成员变量，打勾`Use Objects.hash and Objects.equals methods (1.7 or higher)`
 
 `SHIFT + ALT + A` 光标会变成＋，这时候就可以通过鼠标拖拽进行块状编辑(Block Selection)
+
+`Test Commit`
