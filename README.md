@@ -121,6 +121,8 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 + Java Map集合遍历 {keySet 和 entrySet}
 + Java java.util.HashMap 集合
 + Java java.util.LinkedHashMap 集合
+2020/09/17
++ Java 斗地主案列（排序版本）
 ```
 
 ## Eclipse 笔记：

@@ -1,4 +1,4 @@
-package tut.day04.map;
+package tut.day04.d1map;
 
 import java.util.HashMap;
 import java.util.Map;
