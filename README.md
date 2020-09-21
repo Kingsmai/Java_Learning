@@ -31,7 +31,7 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 
 ## 学习成长日志
 
-```diff
+``` diff
 2020/08/15
 # 创建了此库
 + JavaNote 笔记
@@ -123,6 +123,8 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 + Java java.util.LinkedHashMap 集合
 2020/09/17
 + Java 斗地主案列（排序版本）
+2020/09/21
++ Java java.lang.Exception 异常
 ```
 
 ## Eclipse 笔记：
