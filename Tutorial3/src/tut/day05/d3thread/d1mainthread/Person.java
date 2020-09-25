@@ -1,0 +1,30 @@
+package tut.day05.d3thread.d1mainthread;
+
+public class Person {
+
+	private String name;
+
+	public void run() {
+		// 定义循环，执行20次
+		for(int i = 0; i < 20; i++) {
+			System.out.println(name + "->" + i);
+		}
+	}
+	
+	public Person() {
+		super();
+	}
+
+	public Person(String name) {
+		super();
+		this.name = name;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+}

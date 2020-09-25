@@ -125,6 +125,11 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 + Java 斗地主案列（排序版本）
 2020/09/21
 + Java java.lang.Exception 异常
+2020/09/24
++ 线程！
++ Java java.lang.Thread
+2020/09/25
++ Java java.lang.Thread 常用函数
 ```
 
 ## Eclipse 笔记：
