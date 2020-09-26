@@ -130,6 +130,10 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 + Java java.lang.Thread
 2020/09/25
 + Java java.lang.Thread 常用函数
+2020/09/26
+! AwtSwing 项目是由 IDEA 编译的，请用 IDEA 打开
++ Java GUI java.awt.Container Java用户界面容器
++ Java GUI Layout 各种 awt 包下的布局管理器
 ```
 
 ## Eclipse 笔记：
