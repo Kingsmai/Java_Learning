@@ -4,7 +4,7 @@
 
 ![GitHub issues](https://img.shields.io/github/issues/Kingsmai/JavaLearning)![GitHub pull requests](https://img.shields.io/github/issues-pr/Kingsmai/JavaLearning)![GitHub stars](https://img.shields.io/github/stars/Kingsmai/JavaLearning)![GitHub forks](https://img.shields.io/github/forks/Kingsmai/JavaLearning)
 
-![JDK Version](https://img.shields.io/badge/JDK-1.8.0__261-green)![JDK Version](https://img.shields.io/badge/JDK-11.0.8-green)![JDK Version](https://img.shields.io/badge/JDK-14.0.2-red)
+![JDK Version](https://img.shields.io/badge/JDK-11.0.8-green)
 
 学习Java所做的笔记和程序，请各位给我一个**star**喔，您的支持是我继续完善这个库的动力！:wink:
 
