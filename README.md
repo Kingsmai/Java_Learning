@@ -176,4 +176,8 @@ System.out.println();
 
 `SHIFT + ALT + A` 光标会变成＋，这时候就可以通过鼠标拖拽进行块状编辑(Block Selection)
 
-`Test Commit 3`
+部分乱码的代码（暂未修复）
+
+1. advanced.demo02.apis.Demo13StringBuilder
+2. advanced.demo03wrapperclass.Demo01Integer
+3. advanced.demo07doudizhu.Practise01Test
