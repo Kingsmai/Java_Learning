@@ -134,6 +134,8 @@ Tutorial文件夹是一个Java项目，用eclipse或者intellij打开项目就�
 ! AwtSwing 项目是由 IDEA 编译的，请用 IDEA 打开
 + Java GUI java.awt.Container Java用户界面容器
 + Java GUI Layout 各种 awt 包下的布局管理器
+2020/09/27
+- 所有内容暂时下线做一些迭代更新（新的项目将会用IDEA进行编译，采用编码方式改为UTF-8）
 ```
 
 ## Eclipse 笔记：
